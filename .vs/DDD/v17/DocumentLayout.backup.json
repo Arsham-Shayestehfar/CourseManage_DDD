@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lib\\DDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\valueobjects\\biography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\valueobjects\\biography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\biographynulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\biographynulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BiographyNullOrEmptyException.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
+              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:47:48.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biography.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Biography.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\ValueObjects\\Biography.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Biography.cs",
+              "RelativeToolTip": "DDD.Domain\\ValueObjects\\Biography.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T23:47:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
