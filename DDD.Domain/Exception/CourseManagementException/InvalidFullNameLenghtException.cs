@@ -1,4 +1,4 @@
-﻿using DDD.Sahred.Absraction.Exceptions;
+﻿using DDD.Shared.Abstraction.Exceptions;
 
 namespace DDD.Domain.Exception.CourseManagementException;
 

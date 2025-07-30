@@ -9,3 +9,4 @@ D:\lib\DDD\DDD.Sahred.Absraction\obj\Debug\net9.0\DDD.Shared.Abstraction.dll
 D:\lib\DDD\DDD.Sahred.Absraction\obj\Debug\net9.0\refint\DDD.Shared.Abstraction.dll
 D:\lib\DDD\DDD.Sahred.Absraction\obj\Debug\net9.0\DDD.Shared.Abstraction.pdb
 D:\lib\DDD\DDD.Sahred.Absraction\obj\Debug\net9.0\ref\DDD.Shared.Abstraction.dll
+D:\lib\DDD\DDD.Sahred.Absraction\obj\Debug\net9.0\DDD.Shared.Abstraction.sourcelink.json
