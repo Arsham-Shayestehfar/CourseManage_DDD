@@ -1,9 +1,22 @@
-﻿namespace DDD.Domain.Entities.UserManagement;
+﻿using DDD.Domain.ValueObjects;
+
+namespace DDD.Domain.Entities.UserManagement;
 
 public class UserRole
 {
-    public Guid UserId { get; set; }
-    public User User { get; set; }
-    public Guid RoleId { get; set; }
-    public Role Role { get; set; }
+
+
+    private BaseId _userId;
+    private BaseId _roleId;
+
+    internal UserRole(BaseId userId, BaseId roleId)
+    {
+        _userId = userId;
+        _roleId = roleId;
+    }
+
+    public UserRole()
+    {
+        
+    }
 }

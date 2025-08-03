@@ -3,104 +3,28 @@
   "WorkspaceRootPath": "D:\\lib\\DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\valueobjects\\amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\valueobjects\\amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\paymentmanegementexception\\invalidamountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\paymentmanegementexception\\invalidamountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\primitives\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\primitives\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\valueobjects\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\valueobjects\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\courseattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\courseattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\valueobjects\\rolename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\valueobjects\\rolename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\coursecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\coursecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\usermanagementexception\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\usermanagementexception\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\biographynulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\biographynulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invalidbiographylenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invalidbiographylenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\fullnamenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\fullnamenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\descriptionnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\descriptionnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invaliddescriptionlenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invaliddescriptionlenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invalidfullnamelenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invalidfullnamelenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invalidpriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invalidpriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invalidtitlelenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invalidtitlelenghtexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invalidvideoextensionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invalidvideoextensionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\titlenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\titlenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\videourlnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\videourlnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\usermanagementexception\\emailnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\usermanagementexception\\emailnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\usermanagementexception\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\usermanagementexception\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\usermanagementexception\\passwordnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\usermanagementexception\\passwordnulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\usermanagementexception\\rolenamenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\usermanagementexception\\rolenamenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\usermanagementexception\\usernamenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\usermanagementexception\\usernamenulloremptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|d:\\lib\\ddd\\ddd.sahred.absraction\\exceptions\\paymentmanagementexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|solutionrelative:ddd.sahred.absraction\\exceptions\\paymentmanagementexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|d:\\lib\\ddd\\ddd.sahred.absraction\\exceptions\\usermanagementexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|solutionrelative:ddd.sahred.absraction\\exceptions\\usermanagementexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,305 +34,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvalidAmountException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\PaymentManegementException\\InvalidAmountException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\PaymentManegementException\\InvalidAmountException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\PaymentManegementException\\InvalidAmountException.cs*",
-              "RelativeToolTip": "DDD.Domain\\Exception\\PaymentManegementException\\InvalidAmountException.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Lesson.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Lesson.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Lesson.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Lesson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:48:55.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InvalidEmailException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\InvalidEmailException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\UserManagementException\\InvalidEmailException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\InvalidEmailException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\UserManagementException\\InvalidEmailException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:43:21.654Z",
+              "WhenOpened": "2025-07-30T06:39:25.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserName.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\UserName.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ValueObjects\\UserName.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\UserName.cs*",
-              "RelativeToolTip": "DDD.Domain\\ValueObjects\\UserName.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBAAAAAaAAAAAAAAAA==",
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:22:30.361Z",
+              "WhenOpened": "2025-07-30T06:37:02.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RoleName.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\RoleName.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ValueObjects\\RoleName.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\RoleName.cs*",
-              "RelativeToolTip": "DDD.Domain\\ValueObjects\\RoleName.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBAAAAAaAAAAAAAAAA==",
+              "Title": "CourseCatalog.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\CourseCatalog.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\CourseCatalog.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\CourseCatalog.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\CourseCatalog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:29:13.656Z",
+              "WhenOpened": "2025-07-30T06:33:34.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Password.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Password.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ValueObjects\\Password.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Password.cs*",
-              "RelativeToolTip": "DDD.Domain\\ValueObjects\\Password.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBEAAAAaAAAAAAAAAA==",
+              "Title": "CourseAttendee.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\CourseAttendee.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\CourseAttendee.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\CourseAttendee.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\CourseAttendee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:24:53.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Amount.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Amount.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ValueObjects\\Amount.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Amount.cs*",
-              "RelativeToolTip": "DDD.Domain\\ValueObjects\\Amount.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:35:37.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BiographyNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\BiographyNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:46:27.481Z",
+              "WhenOpened": "2025-07-30T06:30:59.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Email.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Email.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\ValueObjects\\Email.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\ValueObjects\\Email.cs*",
-              "RelativeToolTip": "DDD.Domain\\ValueObjects\\Email.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBEAAAANAAAAAAAAAA==",
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwBkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:27:12.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InvalidBiographyLenghtException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidBiographyLenghtException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidBiographyLenghtException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidBiographyLenghtException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidBiographyLenghtException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:46:18.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FullNameNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\FullNameNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\FullNameNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\FullNameNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\FullNameNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:46:21.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DescriptionNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\DescriptionNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\DescriptionNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\DescriptionNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\DescriptionNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:46:24.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InvalidDescriptionLenghtException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidDescriptionLenghtException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidDescriptionLenghtException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidDescriptionLenghtException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidDescriptionLenghtException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:46:14.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InvalidFullNameLenghtException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidFullNameLenghtException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidFullNameLenghtException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidFullNameLenghtException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidFullNameLenghtException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:46:05.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InvalidPriceException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidPriceException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidPriceException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidPriceException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidPriceException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:46:01.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InvalidTitleLenghtException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidTitleLenghtException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidTitleLenghtException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidTitleLenghtException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidTitleLenghtException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:45:57.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "InvalidVideoExtensionException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidVideoExtensionException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidVideoExtensionException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidVideoExtensionException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidVideoExtensionException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:45:54.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TitleNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\TitleNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\TitleNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\TitleNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\TitleNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:45:50.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "VideoUrlNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\VideoUrlNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\VideoUrlNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\VideoUrlNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\VideoUrlNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:45:45.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "InvalidPasswordException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\InvalidPasswordException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\UserManagementException\\InvalidPasswordException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\InvalidPasswordException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\UserManagementException\\InvalidPasswordException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:43:25.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PasswordNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\PasswordNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\UserManagementException\\PasswordNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\PasswordNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\UserManagementException\\PasswordNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:43:30.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmailNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\EmailNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\UserManagementException\\EmailNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\EmailNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\UserManagementException\\EmailNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:43:16.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RoleNameNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\RoleNameNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\UserManagementException\\RoleNameNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\RoleNameNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\UserManagementException\\RoleNameNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:43:35.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UsernameNullOrEmptyException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\UsernameNullOrEmptyException.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\UserManagementException\\UsernameNullOrEmptyException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\UserManagementException\\UsernameNullOrEmptyException.cs",
-              "RelativeToolTip": "DDD.Domain\\Exception\\UserManagementException\\UsernameNullOrEmptyException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:43:38.662Z",
+              "WhenOpened": "2025-07-30T06:21:20.608Z",
               "EditorCaption": ""
             },
             {
@@ -421,28 +111,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PaymentManagementException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Exceptions\\PaymentManagementException.cs",
-              "RelativeDocumentMoniker": "DDD.Sahred.Absraction\\Exceptions\\PaymentManagementException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Exceptions\\PaymentManagementException.cs",
-              "RelativeToolTip": "DDD.Sahred.Absraction\\Exceptions\\PaymentManagementException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Primitives\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Primitives\\BaseEntity.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Primitives\\BaseEntity.cs",
+              "RelativeToolTip": "DDD.Domain\\Primitives\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:38:58.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserManagementExceptions.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Exceptions\\UserManagementExceptions.cs",
-              "RelativeDocumentMoniker": "DDD.Sahred.Absraction\\Exceptions\\UserManagementExceptions.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Exceptions\\UserManagementExceptions.cs",
-              "RelativeToolTip": "DDD.Sahred.Absraction\\Exceptions\\UserManagementExceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T00:37:09.841Z",
+              "WhenOpened": "2025-07-30T06:18:13.745Z",
               "EditorCaption": ""
             }
           ]
