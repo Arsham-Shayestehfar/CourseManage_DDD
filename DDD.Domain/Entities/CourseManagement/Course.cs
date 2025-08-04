@@ -1,6 +1,7 @@
 ﻿
 using DDD.Domain.Primitives;
 using DDD.Domain.ValueObjects;
+using DDD.Shared.Abstraction.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DDD.Domain.Entities.CourseManagement
 {
-    public class Course:BaseEntity
+    public class Course:AggregateRoot<BaseId>
     {
         
        
@@ -23,18 +24,19 @@ namespace DDD.Domain.Entities.CourseManagement
         private LinkedList<CourseCatalog> _courseCatalogs;
         private LinkedList<CourseAttendee> _courseAttendees;
 
-        internal Course(BaseId id,Title title, Description description, bool isFree, Price price, BaseId instructorId) : base(id)
+        internal Course(BaseId id,Title title, Description description, bool isFree, Price price, BaseId instructorId) 
         {
+            Id = id;
             _title = title;
             _description = description;
             IsFree = isFree;
             _price = price;
             _instructorId = instructorId;
         }
-
-        public Course(BaseId id) : base(id) 
+        public Course()
         {
             
         }
+
     }
 }

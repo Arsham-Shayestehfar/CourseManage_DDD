@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\lib\\DDD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|d:\\lib\\ddd\\ddd.sahred.absraction\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|solutionrelative:ddd.sahred.absraction\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\usermanagement\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\usermanagement\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\primitives\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\courseattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\courseattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,11 +54,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
+              "RelativeToolTip": "DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:21:44.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\UserRole.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\UserRole.cs",
@@ -67,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\User.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\User.cs",
@@ -75,12 +100,11 @@
               "RelativeToolTip": "DDD.Domain\\Entities\\UserManagement\\User.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T22:30:38.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T22:30:38.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\Role.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\Role.cs",
@@ -88,12 +112,11 @@
               "RelativeToolTip": "DDD.Domain\\Entities\\UserManagement\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T22:27:45.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T22:27:45.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Invoice.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\PaymentManagement\\Invoice.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\PaymentManagement\\Invoice.cs",
@@ -101,20 +124,11 @@
               "RelativeToolTip": "DDD.Domain\\Entities\\PaymentManagement\\Invoice.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T22:24:39.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "WhenOpened": "2025-08-02T22:24:39.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Lesson.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Lesson.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Lesson.cs",
@@ -122,12 +136,11 @@
               "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Lesson.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T06:39:25.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T06:39:25.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Instructor.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
@@ -139,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CourseCatalog.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\CourseCatalog.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\CourseCatalog.cs",
@@ -151,7 +164,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:21:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CourseAttendee.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\CourseAttendee.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\CourseAttendee.cs",
@@ -163,19 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAMwBkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T06:21:20.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Primitives\\BaseEntity.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Primitives\\BaseEntity.cs",
