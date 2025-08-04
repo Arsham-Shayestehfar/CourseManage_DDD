@@ -25,6 +25,11 @@ namespace DDD.Domain.Entities.CourseManagement
             
         }
 
+        public void UpdateFullName(FullName fullName)
+        {
+            _fullName = fullName;
+        }
+
 
     }
 }
