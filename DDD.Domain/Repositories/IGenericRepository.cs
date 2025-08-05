@@ -10,6 +10,7 @@ namespace DDD.Domain.Repositories
 {
     public interface IGenericRepository<T> where T : class
     {
+        Task<IReadOnlyList<T>> GetAllAsync();
         Task<T> GetAsync(BaseId id);
         Task CreateAsync (T entity);
         Task UpdateAsync (T entity);
