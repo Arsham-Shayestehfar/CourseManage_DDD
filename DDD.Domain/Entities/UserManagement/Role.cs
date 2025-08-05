@@ -8,10 +8,10 @@ public class Role:BaseEntity
 {
     private RoleName _roleName;
     private LinkedList<RoleName> _userRoles;
-    internal Role(BaseId id, RoleName roleName, LinkedList<RoleName> userRoles) : base(id)
+    internal Role(BaseId id, RoleName roleName) : base(id)
     {
         _roleName = roleName;
-        _userRoles = userRoles;
+        
     }
 
     public Role(BaseId id):base(id) 

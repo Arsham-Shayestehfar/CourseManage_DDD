@@ -13,14 +13,14 @@ public class User:AggregateRoot<BaseId>
     private Email _email;
     private bool _isConfirmed;
     private LinkedList<UserRole> _userRoles;
-    internal User(BaseId id, UserName userName, Password password, Email email, bool isConfirmed, LinkedList<UserRole> userRoles)
+    internal User(BaseId id, UserName userName, Password password, Email email, bool isConfirmed)
     {
         Id = id;
         _userName = userName;
         _password = password;
         _email = email;
         _isConfirmed = isConfirmed;
-        _userRoles = userRoles;
+        
         RaiseDomainEvent(new UserRegisteredEvent(this));
     }
 

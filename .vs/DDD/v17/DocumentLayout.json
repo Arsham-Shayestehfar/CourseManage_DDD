@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\lib\\DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\domainevents\\userregisteredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\domainevents\\userregisteredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invalidinstructorratingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invalidinstructorratingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\coursemanagement\\instructorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\coursemanagement\\instructorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\usermanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\usermanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\exception\\coursemanagementexception\\invalidinstructorexperienceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\exception\\coursemanagementexception\\invalidinstructorexperienceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\domainevents\\newcoursecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\domainevents\\newcoursecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\coursemanagement\\iinstructorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\coursemanagement\\iinstructorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\domainevents\\courseatendeeaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\domainevents\\courseatendeeaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "RelativeToolTip": "DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "InvalidInstructorRatingException.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorRatingException.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorRatingException.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorRatingException.cs",
+              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorRatingException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T22:48:14.969Z",
+              "WhenOpened": "2025-08-05T05:36:21.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidInstructorExperienceException.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorExperienceException.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorExperienceException.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorExperienceException.cs",
+              "RelativeToolTip": "DDD.Domain\\Exception\\CourseManagementException\\InvalidInstructorExperienceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:35:22.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAABOAAAAAAAAAA==",
+              "Title": "InstructorFactory.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\InstructorFactory.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\CourseManagement\\InstructorFactory.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\InstructorFactory.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\CourseManagement\\InstructorFactory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T22:42:15.3Z",
+              "WhenOpened": "2025-08-05T05:31:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInstructorFactory.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\IInstructorFactory.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\CourseManagement\\IInstructorFactory.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\IInstructorFactory.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\CourseManagement\\IInstructorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:24:48.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Instructor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:19:52.329Z",
               "EditorCaption": ""
             },
             {
@@ -65,45 +104,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRegisteredEvent.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
-              "RelativeToolTip": "DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T22:39:12.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseAtendeeAddedEvent.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
-              "RelativeToolTip": "DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T22:37:07.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewCourseCreatedEvent.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
-              "RelativeToolTip": "DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T22:35:20.929Z",
-              "EditorCaption": ""
             }
           ]
         }

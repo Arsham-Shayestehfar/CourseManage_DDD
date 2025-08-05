@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "D:\\lib\\DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|d:\\lib\\ddd\\ddd.sahred.absraction\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|solutionrelative:ddd.sahred.absraction\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\paymentmanegement\\iinvoicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\paymentmanegement\\iinvoicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\usermanagement\\irolefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\usermanagement\\irolefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\usermanagement\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\usermanagement\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\usermanagement\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\usermanagement\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\usermanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\usermanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|d:\\lib\\ddd\\ddd.sahred.absraction\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|solutionrelative:ddd.sahred.absraction\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\usermanagement\\iuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\usermanagement\\iuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\coursemanagement\\ilessonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\coursemanagement\\ilessonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\coursemanagement\\icoursecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\coursemanagement\\icoursecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\coursemanagement\\icourseatendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\coursemanagement\\icourseatendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\factories\\coursemanagement\\icoursefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\factories\\coursemanagement\\icoursefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\entities\\coursemanagement\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\domainevents\\userregisteredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\domainevents\\userregisteredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\domainevents\\newcoursecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\domainevents\\newcoursecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|d:\\lib\\ddd\\ddd.domain\\domainevents\\courseatendeeaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB4CCE7-6E2E-487A-9979-A612FD54B311}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\domainevents\\courseatendeeaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +71,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AggregateRoot.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
-              "RelativeDocumentMoniker": "DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
-              "RelativeToolTip": "DDD.Sahred.Absraction\\Domain\\AggregateRoot.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCAAAAAgAAAAAAAAAA==",
+              "Title": "IInvoiceFactory.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\PaymentManegement\\IInvoiceFactory.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\PaymentManegement\\IInvoiceFactory.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\PaymentManegement\\IInvoiceFactory.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\PaymentManegement\\IInvoiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T05:30:01.289Z",
+              "WhenOpened": "2025-08-04T23:13:33.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\UserRole.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\UserRole.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\UserRole.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\UserManagement\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:10:37.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IDomainEvent.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Domain\\IDomainEvent.cs",
-              "RelativeDocumentMoniker": "DDD.Sahred.Absraction\\Domain\\IDomainEvent.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Domain\\IDomainEvent.cs",
-              "RelativeToolTip": "DDD.Sahred.Absraction\\Domain\\IDomainEvent.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\Role.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\Role.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\Role.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\UserManagement\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T05:25:52.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "RelativeToolTip": "DDD.Domain\\Entities\\UserManagement\\User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T05:24:59.292Z",
+              "WhenOpened": "2025-08-04T23:10:01.694Z",
               "EditorCaption": ""
             },
             {
@@ -70,6 +114,147 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRoleFactory.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\UserManagement\\IRoleFactory.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\UserManagement\\IRoleFactory.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\UserManagement\\IRoleFactory.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\UserManagement\\IRoleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:08:18.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserFactory.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\UserManagement\\IUserFactory.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\UserManagement\\IUserFactory.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\UserManagement\\IUserFactory.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\UserManagement\\IUserFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:07:21.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILessonFactory.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ILessonFactory.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\CourseManagement\\ILessonFactory.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ILessonFactory.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\CourseManagement\\ILessonFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:05:26.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICourseCatalog.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ICourseCatalog.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\CourseManagement\\ICourseCatalog.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ICourseCatalog.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\CourseManagement\\ICourseCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:03:54.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICourseAtendee.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ICourseAtendee.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\CourseManagement\\ICourseAtendee.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ICourseAtendee.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\CourseManagement\\ICourseAtendee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:02:17.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICourseFactory.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ICourseFactory.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Factories\\CourseManagement\\ICourseFactory.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Factories\\CourseManagement\\ICourseFactory.cs",
+              "RelativeToolTip": "DDD.Domain\\Factories\\CourseManagement\\ICourseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:01:16.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\User.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\UserManagement\\User.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\UserManagement\\User.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\UserManagement\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA8AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:48:14.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "RelativeToolTip": "DDD.Domain\\Entities\\CourseManagement\\Course.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:42:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegisteredEvent.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
+              "RelativeToolTip": "DDD.Domain\\DomainEvents\\UserRegisteredEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:39:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseAtendeeAddedEvent.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
+              "RelativeToolTip": "DDD.Domain\\DomainEvents\\CourseAtendeeAddedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:37:07.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewCourseCreatedEvent.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
+              "RelativeToolTip": "DDD.Domain\\DomainEvents\\NewCourseCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:35:20.929Z"
             }
           ]
         }
