@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "D:\\lib\\DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\commands\\user\\handlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\commands\\user\\handlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\commands\\course\\handlers\\deletecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\commands\\course\\handlers\\deletecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\commands\\user\\handlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\commands\\user\\handlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\commands\\user\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\commands\\user\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\exception\\coursenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\exception\\coursenullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\exception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\exception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\commands\\course\\handlers\\updatecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\commands\\course\\handlers\\updatecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\commands\\course\\handlers\\createcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\commands\\course\\handlers\\createcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|d:\\lib\\ddd\\ddd.sahred.absraction\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E34E1C-A3E9-4B2C-AEEE-357F72696F9B}|DDD.Sahred.Absraction\\DDD.Shared.Abstraction.csproj|solutionrelative:ddd.sahred.absraction\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\context\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\context\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadDbContext.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T22:17:44.54Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -55,123 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseNullException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Exception\\CourseNullException.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Exception\\CourseNullException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Exception\\CourseNullException.cs",
-              "RelativeToolTip": "DDD.Application\\Exception\\CourseNullException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:49:00.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "RelativeToolTip": "DDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:24:18.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateUserHandler.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "RelativeToolTip": "DDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwCAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:24:52.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DeleteCourseHandler.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Commands\\Course\\Handlers\\DeleteCourseHandler.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Commands\\Course\\Handlers\\DeleteCourseHandler.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Commands\\Course\\Handlers\\DeleteCourseHandler.cs",
-              "RelativeToolTip": "DDD.Application\\Commands\\Course\\Handlers\\DeleteCourseHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:23:45.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DeleteUserHandler.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "RelativeToolTip": "DDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:25:31.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserNotFoundException.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Exception\\UserNotFoundException.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Exception\\UserNotFoundException.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Exception\\UserNotFoundException.cs",
-              "RelativeToolTip": "DDD.Application\\Exception\\UserNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:54:39.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateCourseHandler.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Commands\\Course\\Handlers\\UpdateCourseHandler.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Commands\\Course\\Handlers\\UpdateCourseHandler.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Commands\\Course\\Handlers\\UpdateCourseHandler.cs",
-              "RelativeToolTip": "DDD.Application\\Commands\\Course\\Handlers\\UpdateCourseHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwB4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:23:19.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateCourseHandler.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Commands\\Course\\Handlers\\CreateCourseHandler.cs",
-              "RelativeDocumentMoniker": "DDD.Application\\Commands\\Course\\Handlers\\CreateCourseHandler.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Commands\\Course\\Handlers\\CreateCourseHandler.cs",
-              "RelativeToolTip": "DDD.Application\\Commands\\Course\\Handlers\\CreateCourseHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:22:31.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Commands\\ICommandHandler.cs",
-              "RelativeDocumentMoniker": "DDD.Sahred.Absraction\\Commands\\ICommandHandler.cs",
-              "ToolTip": "D:\\lib\\DDD\\DDD.Sahred.Absraction\\Commands\\ICommandHandler.cs",
-              "RelativeToolTip": "DDD.Sahred.Absraction\\Commands\\ICommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T19:16:48.937Z",
-              "EditorCaption": ""
             }
           ]
         }

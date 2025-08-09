@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\lib\\DDD\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\usermanagement\\rolereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\usermanagement\\rolereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\context\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\context\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\configs\\readconfigs\\paymentreadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\configs\\readconfigs\\paymentreadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\usermanagement\\userreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\usermanagement\\userreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\usermanagement\\userrolereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\usermanagement\\userrolereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\coursemanagement\\coursereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\coursemanagement\\coursereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\coursemanagement\\instructorreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\coursemanagement\\instructorreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\coursemanagement\\coursecatalogreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\coursemanagement\\coursecatalogreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\paymentmanagement\\invoicereadmoodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\paymentmanagement\\invoicereadmoodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\coursemanagement\\lessonreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\coursemanagement\\lessonreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\coursemanagement\\courseattendereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\coursemanagement\\courseattendereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\models\\basereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\models\\basereadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +67,162 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentReadConfiguration.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Configs\\ReadConfigs\\PaymentReadConfiguration.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Configs\\ReadConfigs\\PaymentReadConfiguration.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Configs\\ReadConfigs\\PaymentReadConfiguration.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Configs\\ReadConfigs\\PaymentReadConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:39:21.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadDbContext.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:32:11.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\UserManagement\\RoleReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\UserManagement\\RoleReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\UserManagement\\RoleReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\UserManagement\\RoleReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:02:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRoleReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\UserManagement\\UserRoleReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\UserManagement\\UserRoleReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\UserManagement\\UserRoleReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\UserManagement\\UserRoleReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:01:20.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructorReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\InstructorReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\InstructorReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\InstructorReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\InstructorReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:48:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseCatalogReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseCatalogReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseCatalogReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseCatalogReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseCatalogReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:40:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\UserManagement\\UserReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\UserManagement\\UserReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\UserManagement\\UserReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\UserManagement\\UserReadModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:40:04.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceReadMoodel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\PaymentManagement\\InvoiceReadMoodel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\PaymentManagement\\InvoiceReadMoodel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\PaymentManagement\\InvoiceReadMoodel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\PaymentManagement\\InvoiceReadMoodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:58:28.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseReadModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:39:17.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LessonReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\LessonReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\LessonReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\LessonReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\LessonReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:43:53.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseAttendeReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseAttendeReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseAttendeReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseAttendeReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\CourseManagement\\CourseAttendeReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:44:48.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseReadModel.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\BaseReadModel.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Models\\BaseReadModel.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Models\\BaseReadModel.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Models\\BaseReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:39:55.59Z",
+              "EditorCaption": ""
             }
           ]
         }
