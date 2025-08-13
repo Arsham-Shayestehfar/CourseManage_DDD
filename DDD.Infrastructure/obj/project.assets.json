@@ -1598,6 +1598,43 @@
             "rid": "win"
           }
         }
+      },
+      "DDD.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DDD.Domain": "1.0.0",
+          "DDD.Shared.Abstraction": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DDD.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DDD.Application.dll": {}
+        }
+      },
+      "DDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DDD.Shared.Abstraction": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DDD.Domain.dll": {}
+        }
+      },
+      "DDD.Shared.Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/DDD.Shared.Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DDD.Shared.Abstraction.dll": {}
+        }
       }
     }
   },
@@ -4701,10 +4738,27 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DDD.Application/1.0.0": {
+      "type": "project",
+      "path": "../DDD.Application/DDD.Application.csproj",
+      "msbuildProject": "../DDD.Application/DDD.Application.csproj"
+    },
+    "DDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DDD.Domain/DDD.Domain.csproj",
+      "msbuildProject": "../DDD.Domain/DDD.Domain.csproj"
+    },
+    "DDD.Shared.Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../DDD.Sahred.Absraction/DDD.Shared.Abstraction.csproj",
+      "msbuildProject": "../DDD.Sahred.Absraction/DDD.Shared.Abstraction.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "DDD.Application >= 1.0.0",
+      "DDD.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.8",
@@ -4743,7 +4797,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\lib\\DDD\\DDD.Application\\DDD.Application.csproj": {
+              "projectPath": "D:\\lib\\DDD\\DDD.Application\\DDD.Application.csproj"
+            },
+            "D:\\lib\\DDD\\DDD.Domain\\DDD.Domain.csproj": {
+              "projectPath": "D:\\lib\\DDD\\DDD.Domain\\DDD.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

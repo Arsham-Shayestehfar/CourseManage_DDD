@@ -20,7 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="EF\Configs\WriteConfigs\" />
+    <ProjectReference Include="..\DDD.Application\DDD.Application.csproj" />
+    <ProjectReference Include="..\DDD.Domain\DDD.Domain.csproj" />
   </ItemGroup>
 
 </Project>

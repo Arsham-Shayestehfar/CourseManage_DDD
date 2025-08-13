@@ -1,4 +1,5 @@
 ﻿using DDD.Domain.DomainEvents;
+using DDD.Domain.Entities.CourseManagement;
 using DDD.Domain.Primitives;
 using DDD.Domain.ValueObjects;
 using DDD.Shared.Abstraction.Domain;
@@ -13,6 +14,7 @@ public class User:AggregateRoot<BaseId>
     private Email _email;
     private bool _isConfirmed;
     private LinkedList<UserRole> _userRoles;
+    private LinkedList<CourseAttendee> _courseAttendees;
     internal User(BaseId id, UserName userName, Password password, Email email, bool isConfirmed)
     {
         Id = id;

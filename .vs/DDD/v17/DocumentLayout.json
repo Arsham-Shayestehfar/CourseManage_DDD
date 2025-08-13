@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "D:\\lib\\DDD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\services\\coursereadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\services\\coursereadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\services\\userreadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\services\\userreadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\context\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\context\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\services\\iuserreadmodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\services\\iuserreadmodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|d:\\lib\\ddd\\ddd.application\\services\\icoursereadmodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80103281-7680-4AF7-9E70-399836861CE2}|DDD.Application\\DDD.Application.csproj|solutionrelative:ddd.application\\services\\icoursereadmodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\context\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\context\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|d:\\lib\\ddd\\ddd.infrastructure\\ef\\options\\dbcontextoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA1D2E-0404-4A13-BFFA-F76666E32177}|DDD.Infrastructure\\DDD.Infrastructure.csproj|solutionrelative:ddd.infrastructure\\ef\\options\\dbcontextoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD0B68C-7501-4DDE-B8AD-AB3B8DBB6809}|DDD.Api\\DDD.Api.csproj|d:\\lib\\ddd\\ddd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAD0B68C-7501-4DDE-B8AD-AB3B8DBB6809}|DDD.Api\\DDD.Api.csproj|solutionrelative:ddd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReadDbContext.cs",
               "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
               "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
               "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
               "RelativeToolTip": "DDD.Infrastructure\\EF\\Context\\ReadDbContext.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T22:17:44.54Z",
+              "WhenOpened": "2025-08-13T22:35:34.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseReadModelService.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Services\\CourseReadModelService.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Services\\CourseReadModelService.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Services\\CourseReadModelService.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Services\\CourseReadModelService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:34:42.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserReadModelService.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Services\\UserReadModelService.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Services\\UserReadModelService.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Services\\UserReadModelService.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Services\\UserReadModelService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:33:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourseReadModelServices.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Services\\ICourseReadModelServices.cs",
+              "RelativeDocumentMoniker": "DDD.Application\\Services\\ICourseReadModelServices.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Services\\ICourseReadModelServices.cs",
+              "RelativeToolTip": "DDD.Application\\Services\\ICourseReadModelServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:29:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserReadModelServices.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Application\\Services\\IUserReadModelServices.cs",
+              "RelativeDocumentMoniker": "DDD.Application\\Services\\IUserReadModelServices.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Application\\Services\\IUserReadModelServices.cs",
+              "RelativeToolTip": "DDD.Application\\Services\\IUserReadModelServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:28:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Repositories\\CourseRepository.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:19:57.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:09:37.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WriteDbContext.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\WriteDbContext.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Context\\WriteDbContext.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Context\\WriteDbContext.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Context\\WriteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:08:37.534Z",
               "EditorCaption": ""
             },
             {
@@ -36,6 +163,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContextOption.cs",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Options\\DbContextOption.cs",
+              "RelativeDocumentMoniker": "DDD.Infrastructure\\EF\\Options\\DbContextOption.cs",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Infrastructure\\EF\\Options\\DbContextOption.cs",
+              "RelativeToolTip": "DDD.Infrastructure\\EF\\Options\\DbContextOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:46:57.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\lib\\DDD\\DDD.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DDD.Api\\appsettings.json",
+              "ToolTip": "D:\\lib\\DDD\\DDD.Api\\appsettings.json",
+              "RelativeToolTip": "DDD.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T23:44:06.58Z"
             }
           ]
         }

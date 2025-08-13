@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DDD.Infrastructure.EF.Context
 {
-    internal sealed class ReadDbContext : DbContext
+    public sealed class ReadDbContext : DbContext
     {
         #region courseManagement dbSets
 
